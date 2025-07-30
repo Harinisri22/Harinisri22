@@ -1,7 +1,7 @@
-<h3 align="center">👋 Hello, I'm Harinisri S</h3>
+<h3 align="center">👩‍💻Hello, I'm HariniSri S</h3>
 
 <p align="center">
-  📊 Aspiring Data Analyst | 🐍 Python & SQL Learner | 💼 Open to Work  
+  📊 Aspiring Data Analyst | 🐍 Python & SQL Developer | 💼 Open to Work  
 </p>
 <p align="center">
   🔍 Exploring real-world data • 💡 Learning by doing • 🌱 Growing every day

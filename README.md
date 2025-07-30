@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hello, I'm Harinisri S</h1>
+<h3 align="center">👋 Hello, I'm Harinisri S</h3>
 
 <p align="center">
-  📊 Aspiring <strong>Data Analyst</strong> | 🐍 Python & SQL Learner | 💼 Open to Work  
+  📊 Aspiring Data Analyst | 🐍 Python & SQL Learner | 💼 Open to Work  
 </p>
 <p align="center">
   🔍 Exploring real-world data • 💡 Learning by doing • 🌱 Growing every day
@@ -9,98 +9,93 @@
 
 ---
 
-## 🙋‍♀️ About Me
+### 🙋‍♀️ About Me
 
-Hi! I’m a motivated **B.Com graduate from Chennai** exploring the exciting field of **Data Analytics** by practicing hands-on with real-world datasets.
+Hi! I'm Harinisri, a B.Com graduate from Chennai taking my first steps into the world of data.  
+I'm passionate about analyzing real-world datasets and presenting insights in a simple, visual way.
 
-I enjoy using **Python, SQL, and Excel** to clean data, uncover patterns, and present meaningful insights through clear and interactive visualizations.
+I enjoy working with **Python, SQL, and Excel** to organize data, find patterns, and create basic dashboards.  
+Currently, I'm building beginner-friendly projects to strengthen my skills and showcase my journey.
 
-I'm currently applying my growing skill set to **small but meaningful projects** that strengthen my foundation and showcase my learning journey.
-
-🚀 *Actively looking for full-time roles in data and tech support!*
-
----
-
-## 🧰 Skills & Tools
-
-| 💡 Area | 🔧 Tools |
-|--------|----------|
-| 🐍 Python | pandas, NumPy, matplotlib, Seaborn, Plotly |
-| 📈 Basic Machine Learning | scikit-learn (Linear & Logistic Regression, Decision Tree, Random Forest, KNN) |
-| 🧮 SQL | Joins, Filtering, Aggregation |
-| 📊 Excel | Data Cleaning, Pivot Tables, Charts |
-| 📁 Data Handling | CSV files, Basic Exploratory Data Analysis (EDA) |
-| 🛠️ Tools | Jupyter Notebook, VS Code, Git & GitHub, MySQL Workbench, PowerPoint |
+🚀 *Actively seeking full-time roles in data analytics and IT support.*
 
 ---
 
-## 📌 Projects
+### 🧰 Skills & Tools
 
-### 📊 COVID-19 Outcome Analysis  
-Cleaned patient data and performed exploratory analysis using **pandas**, **matplotlib**, and **Seaborn** to identify trends and correlations.
-
----
-
-### 🤖 Logistic Regression (Beginner)  
-- Built a **Logistic Regression** model to predict Yes/No outcomes  
-- Applied **train-test split** and calculated **accuracy score**  
-- Visualized prediction results using **Seaborn**
-
----
-
-### 📉 Linear Regression with Python  
-- Used **Linear Regression** to predict continuous values  
-- Visualized regression line and residuals using **Matplotlib** and **Plotly**
+| Area | Tools |
+|------|-------|
+| Python | pandas, NumPy, matplotlib, Seaborn, Plotly |
+| Machine Learning | scikit-learn (Linear Regression, Logistic Regression, Decision Tree, Random Forest, KNN) |
+| SQL | Joins, Filters, Aggregation (MySQL) |
+| Excel | Data Cleaning, Pivot Tables, Charts |
+| Data Handling | CSV files, Basic EDA |
+| Tools | Jupyter Notebook, VS Code, Git, GitHub, MySQL Workbench, PowerPoint |
 
 ---
 
-### 🌳 Decision Tree & Random Forest  
-- Compared classification performance between **Decision Tree** and **Random Forest** models  
-- Evaluated using accuracy and confusion matrix
+### 📌 Projects
 
----
+#### 📦 Supply Chain Management System (SQL Project)  
+Designed a simple database using MySQL to manage suppliers, inventory, and deliveries.  
+Wrote queries to track stock, filter performance, and summarize delivery data.
 
-### 🗃️ SQL Query Practice  
-Wrote SQL queries with **joins**, **group by**, and **filters** using sample business datasets.
+#### 📊 COVID-19 Outcome Analysis  
+Cleaned and analyzed patient data using **pandas** and **Seaborn**.  
+Explored trends in symptoms and survival outcomes.
 
----
+#### 🤖 Logistic Regression Model  
+Built a logistic regression model using **scikit-learn** to predict outcomes.  
+Applied train-test split, calculated accuracy, and visualized results with **Seaborn**.
 
-### 📊 Excel Dashboard  
-Created a basic dashboard using **pivot tables** and **charts** to summarize sales performance and customer metrics.
+#### 📉 Linear Regression with Python  
+Used linear regression to predict continuous values like scores.  
+Visualized regression line and residuals using **Matplotlib** and **Plotly**.
+
+#### 🌳 Decision Tree vs Random Forest  
+Compared classification accuracy using **Decision Tree** and **Random Forest** algorithms.  
+Evaluated models using confusion matrix and accuracy score.
+
+#### 🗃️ SQL Query Practice  
+Wrote queries using joins, group by, filters on practice datasets.
+
+#### 📊 Excel Dashboard  
+Created basic dashboards using pivot tables and charts for sales and customer data.
 
 🧪 *More beginner-friendly projects coming soon!*
 
 ---
 
-## 🤖 Beginner ML Algorithms I’ve Explored
+### 🤖 Beginner ML Algorithms I’ve Explored
 
-- 📉 **Linear Regression** (predicting scores/prices)  
-- 🧠 **Logistic Regression** (binary classification)  
-- 🌳 **Decision Tree** & 🌲 **Random Forest** (classification)  
-- 👣 **K-Nearest Neighbors (KNN)**  
-- 🧪 **Train-test split**, **Accuracy Score**, and **Confusion Matrix**
-
----
-
-## 📬 Let’s Connect
-
-📧 **Email**: [harinisrioff@gmail.com](mailto:harinisrioff@gmail.com)  
-🔗 **LinkedIn**: [linkedin.com/in/harinisri-s](https://www.linkedin.com/in/harinisri-s)  
-💻 **GitHub**: [github.com/Harinisri22](https://github.com/Harinisri22)
+- 📉 Linear Regression  
+- 🧠 Logistic Regression  
+- 🌳 Decision Tree  
+- 🌲 Random Forest  
+- 👣 K-Nearest Neighbors (KNN)  
+- ⚙️ Train-test Split, Accuracy Score, Confusion Matrix
 
 ---
 
-## 🔍 I’m Open To Roles In:
+### 📬 Let’s Connect
 
-- 📊 Data Analytics
+📧 Email: [harinisrioff@gmail.com](mailto:harinisrioff@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/harinisri-s](https://www.linkedin.com/in/harinisri-s)  
+💻 GitHub: [github.com/Harinisri22](https://github.com/Harinisri22)
+
+---
+
+### 🔍 I’m Open To Roles In
+
+- 📊 Data Analytics  
 - 🧮 SQL + Excel-Based Reporting  
-- 💻 Data Support / IT Support  
-- 🐍 Junior Python Developer 
+- 💻 IT/Data Support  
+- 🐍 Junior Python Developer  
 
-> 🌱 *"Every dataset teaches me something new — I’m here to learn and grow one row at a time!"*
+> *"Every dataset teaches me something new — I’m here to learn and grow one row at a time!"*
 
 ---
 
 <p align="center">
-  ⭐ Thank you for visiting my profile! Let’s connect and grow together.
+  ⭐ Thanks for visiting my profile! Let’s connect and grow together.
 </p>

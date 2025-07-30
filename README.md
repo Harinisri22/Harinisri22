@@ -11,11 +11,11 @@
 
 ### 🙋‍♀️ About Me
 
-Hi! I'm Harinisri, a B.Com graduate from Chennai taking my first steps into the world of data.  
-I'm passionate about analyzing real-world datasets and presenting insights in a simple, visual way.
+Hi! I’m a motivated **B.Com graduate from Chennai** exploring the exciting field of **Data Analytics** by practicing hands-on with real-world datasets.
 
-I enjoy working with **Python, SQL, and Excel** to organize data, find patterns, and create basic dashboards.  
-Currently, I'm building beginner-friendly projects to strengthen my skills and showcase my journey.
+I enjoy using **Python, SQL, and Excel** to clean data, uncover patterns, and present meaningful insights through clear and interactive visualizations.
+
+I'm currently applying my growing skill set to **small but meaningful projects** that strengthen my foundation and showcase my learning journey.
 
 🚀 *Actively seeking full-time roles in data analytics and IT support.*
 

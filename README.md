@@ -1,7 +1,7 @@
-<h3 align="center">👩‍💻Hello, I'm HariniSri S</h3>
+<h3 align="center">👩‍💻 Hello, I'm HariniSri S</h3>
 
 <p align="center">
-  📊 Aspiring Data Analyst | 🐍 Python & SQL Developer | 💼 Open to Work  
+  📊 Aspiring Data Analyst | Python • SQL • Power BI • Excel • Tableau | 💼 Open to Work  
 </p>
 <p align="center">
   🔍 Exploring real-world data • 💡 Learning by doing • 🌱 Growing every day
@@ -11,13 +11,11 @@
 
 ### 🙋‍♀️ About Me
 
-Hi! I’m a motivated **B.Com graduate from Chennai** exploring the exciting field of **Data Analytics** by practicing hands-on with real-world datasets.
+Hi! I’m **Harinisri S**, a **B.Com graduate from Chennai** and an aspiring **Data Analyst** passionate about turning raw data into actionable insights.  
+I enjoy using **Python, SQL, Excel, Power BI, and Tableau** to clean, analyze, and visualize data for real-world business cases.  
 
-I enjoy using **Python, SQL, and Excel** to clean data, uncover patterns, and present meaningful insights through clear and interactive visualizations.
-
-I'm currently applying my growing skill set to **small but meaningful projects** that strengthen my foundation and showcase my learning journey.
-
-🚀 *Actively seeking full-time roles in data analytics and IT support.*
+Currently, I’m enhancing my skills by creating data-driven projects that demonstrate practical analytics and dashboard storytelling.  
+🚀 *Actively seeking full-time roles in Data Analytics, BI, or IT Support.*
 
 ---
 
@@ -25,55 +23,51 @@ I'm currently applying my growing skill set to **small but meaningful projects**
 
 | Area | Tools |
 |------|-------|
-| Python | pandas, NumPy, matplotlib, Seaborn, Plotly |
-| Machine Learning | scikit-learn (Linear Regression, Logistic Regression, Decision Tree, Random Forest, KNN) |
-| SQL | Joins, Filters, Aggregation (MySQL) |
-| Excel | Data Cleaning, Pivot Tables, Charts |
-| Data Handling | CSV files, Basic EDA |
-| Tools | Jupyter Notebook, VS Code, Git, GitHub, MySQL Workbench, PowerPoint |
+| **Python** | pandas, NumPy, matplotlib, Seaborn, Plotly |
+| **Machine Learning** | scikit-learn (Linear Regression, RandomForestRegressor, GradientBoostingRegressor) |
+| **SQL** | Joins, Filters, Aggregations, Subqueries, Stored Procedures |
+| **Excel** | Pivot Tables, Dashboards, Charts, Lookup Functions |
+| **Visualization** | Power BI, Tableau |
+| **Data Handling** | CSV, EDA, Data Cleaning |
+| **Other Tools** | Jupyter Notebook, VS Code, Git & GitHub, MySQL Workbench, PowerPoint |
 
 ---
 
 ### 📌 Projects
 
-#### 📦 Supply Chain Management System (SQL Project)  
-Designed a simple database using MySQL to manage suppliers, inventory, and deliveries.  
-Wrote queries to track stock, filter performance, and summarize delivery data.
+#### 🛍️ Online Retail Store Database Management System (SQL Project)
+The **Online Retail Store Database Management System** is a complete SQL project that demonstrates real-world business database management.  
+It helps manage **customers, suppliers, products, employees, orders, payments, deliveries, and inventory** in a structured way.  
+With **30+ SQL queries**, it supports business analysis, decision-making, and performance tracking.
 
-#### 📊 COVID-19 Outcome Analysis  
-Cleaned and analyzed patient data using **pandas** and **Seaborn**.  
-Explored trends in symptoms and survival outcomes.
+#### 🦠 COVID-19 Outcome Prediction (Python Project)
+Analyzed and predicted COVID-19 outcomes using **pandas**, **NumPy**, and **scikit-learn**.  
+Built models with **Linear Regression**, **RandomForestRegressor**, and **GradientBoostingRegressor**.  
+Used **train-test split**, **accuracy score**, and **confusion matrix** for evaluation.  
 
-#### 🤖 Logistic Regression Model  
-Built a logistic regression model using **scikit-learn** to predict outcomes.  
-Applied train-test split, calculated accuracy, and visualized results with **Seaborn**.
+#### 📊 Myntra Sales Analysis Dashboard (Power BI Project)
+A 3-page interactive Power BI dashboard (2023–2025) covering **Sales Overview**, **Product & Order Insights**, and **State-wise Analysis**.  
+Includes data cleaning, star schema modeling, and **DAX formulas** for KPIs like top products, total sales, and customer performance.  
 
-#### 📉 Linear Regression with Python  
-Used linear regression to predict continuous values like scores.  
-Visualized regression line and residuals using **Matplotlib** and **Plotly**.
-
-#### 🌳 Decision Tree vs Random Forest  
-Compared classification accuracy using **Decision Tree** and **Random Forest** algorithms.  
-Evaluated models using confusion matrix and accuracy score.
-
-#### 🗃️ SQL Query Practice  
-Wrote queries using joins, group by, filters on practice datasets.
-
-#### 📊 Excel Dashboard  
-Created basic dashboards using pivot tables and charts for sales and customer data.
-
-🧪 *More beginner-friendly projects coming soon!*
+#### 📈 Excel Dashboard – Online Retail Store Management
+Created an Excel dashboard to summarize **sales and customer data** using pivot tables and charts.  
+Displayed revenue trends, top-performing categories, and customer behavior insights.  
 
 ---
 
-### 🤖 Beginner ML Algorithms I’ve Explored
+### 🤖 Machine Learning Algorithms I’ve Learned
 
 - 📉 Linear Regression  
-- 🧠 Logistic Regression  
-- 🌳 Decision Tree  
-- 🌲 Random Forest  
-- 👣 K-Nearest Neighbors (KNN)  
-- ⚙️ Train-test Split, Accuracy Score, Confusion Matrix
+- 🌳 RandomForestRegressor  
+- 🚀 GradientBoostingRegressor  
+- ⚙️ Train-test Split, Accuracy Score, Confusion Matrix  
+
+---
+
+### 📚 Currently Learning
+
+- 📊 **Tableau** for interactive visualization and storytelling  
+- ⚙️ Advanced DAX & SQL optimization techniques  
 
 ---
 
@@ -88,11 +82,11 @@ Created basic dashboards using pivot tables and charts for sales and customer da
 ### 🔍 I’m Open To Roles In
 
 - 📊 Data Analytics  
-- 🧮 SQL + Excel-Based Reporting  
-- 💻 IT/Data Support  
+- 🧮 SQL + Excel Reporting  
+- 💻 BI / IT Support  
 - 🐍 Junior Python Developer  
 
-> *"Every dataset teaches me something new — I’m here to learn and grow one row at a time!"*
+> *"Every dataset tells a story — I’m here to uncover and share it through data."*
 
 ---
 

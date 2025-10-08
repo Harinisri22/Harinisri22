@@ -36,21 +36,13 @@ Currently, I’m building end-to-end projects that combine **data cleaning, mode
 ### 📌 Projects
 
 #### 📊 Myntra Sales Analysis Dashboard (Power BI Project)
-A 3-page **Power BI dashboard** (2023–2025) designed to analyze Myntra’s **sales, products, and state-wise performance**.  
-Includes **data cleaning, star schema modeling**, and **DAX formulas** for KPIs like top products, total revenue, and customer contribution.  
-Enhanced with **interactive filters and visual storytelling**, helping businesses track year-over-year growth and identify best-performing categories.  
-This project demonstrates strong skills in **data visualization, dashboard design, and analytical insights**.
+A 3-page **Power BI dashboard** (2023–2025) designed to analyze Myntra’s **sales, products, and state-wise performance**. Includes **data cleaning, starlike schema modeling**, and **DAX formulas** for KPIs like top products, total revenue, and customer contribution. Enhanced with **interactive filters and visual storytelling**, helping businesses track year-over-year growth and identify best-performing categories. This project demonstrates strong skills in **data visualization, dashboard design, and analytical insights**.
 
 #### 🛍️ Online Retail Store Management System (SQL Project)
-The **Online Retail Store Database Management System** is a complete SQL project that demonstrates real-world business database management.  
-It helps manage **customers, suppliers, products, employees, orders, payments, deliveries, and inventory** in a structured way.  
-With **30+ SQL queries**, it supports business analysis, decision-making, and performance tracking through efficient data management.
+The **Online Retail Store Management System** is a complete SQL project that demonstrates real-world business database management. It helps manage **customers, suppliers, products, employees, orders, payments, deliveries, and inventory** in a structured way. With **30+ SQL queries**, it supports business analysis, decision-making, and performance tracking through efficient data management.
 
 #### 🦠 COVID-19 Outcome Prediction (Python Project)
-Analyzed and predicted COVID-19 outcomes using **pandas**, **NumPy**, and **scikit-learn**.  
-Built models with **Linear Regression**, **RandomForestRegressor**, and **GradientBoostingRegressor**.  
-Used **train-test split**, **accuracy score**, and **confusion matrix** to evaluate model performance.  
-Showcases strong understanding of **machine learning workflow and evaluation metrics**.
+Analyzed and predicted COVID-19 outcomes using **pandas**, **NumPy**, **matplotlib**, and **scikit-learn**. Built models with **Linear Regression**, **RandomForestRegressor**, and **GradientBoostingRegressor**. Used **train-test split**, **accuracy score**, and **confusion matrix** to evaluate model performance. Showcases strong understanding of **machine learning workflow and evaluation metrics**.
 
 ---
 

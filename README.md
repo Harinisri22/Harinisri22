@@ -44,6 +44,11 @@ The **Online Retail Store Management System** is a complete SQL project that dem
 #### 🦠 COVID-19 Outcome Prediction (Python Project)
 Analyzed and predicted COVID-19 outcomes using **pandas**, **NumPy**, **matplotlib**, and **scikit-learn**. Built models with **Linear Regression**, **RandomForestRegressor**, and **GradientBoostingRegressor**. Used **train-test split**, **accuracy score**, and **confusion matrix** to evaluate model performance. Showcases strong understanding of **machine learning workflow and evaluation metrics**.
 
+#### 🍽️ Analysis of Restaurant Orders in India (Excel Project)
+This project analyzes **50k+ restaurant orders** from various cities across India to extract meaningful business insights.  
+Performed **data cleaning, preprocessing, and analysis** using Excel tools like **Pivot Tables, Aggregation Functions (SUM, AVERAGE, COUNT, MAX, MIN)**, and **Logical Functions (IF, IFS, AND, OR)**.  
+Generated reports on **city-wise revenue, top restaurants, customer spending patterns, and order status trends**.  
+
 ---
 
 ### 🤖 Machine Learning Algorithms I’ve Learned

@@ -46,8 +46,7 @@ Analyzed and predicted COVID-19 outcomes using **pandas**, **NumPy**, **matplotl
 
 #### 🍽️ Analysis of Restaurant Orders in India (Excel Project)
 This project analyzes **50k+ restaurant orders** from various cities across India to extract meaningful business insights.  
-Performed **data cleaning, preprocessing, and analysis** using Excel tools like **Pivot Tables, Aggregation Functions (SUM, AVERAGE, COUNT, MAX, MIN)**, and **Logical Functions (IF, IFS, AND, OR)**.  
-Generated reports on **city-wise revenue, top restaurants, customer spending patterns, and order status trends**.  
+Performed **data cleaning, preprocessing, and analysis** using Excel tools like **Pivot Tables, Aggregation Functions (SUM, AVERAGE, COUNT, MAX, MIN)**, and **Logical Functions (IF, IFS, AND, OR)**. 
 
 ---
 
